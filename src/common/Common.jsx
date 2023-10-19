@@ -7,6 +7,7 @@ const Common = (props) => {
       <div className='cardHeading'>
         <h3>{props.title}</h3>
         <MoreVertOutlinedIcon className='headingIcon' />
+        
       </div>
     </>
   )
